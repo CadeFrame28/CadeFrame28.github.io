@@ -35,3 +35,8 @@ header
 {
 	background-color: lightslategrey;
 }
+
+ol 
+{
+	list-style-type: lower-alpha;
+}
