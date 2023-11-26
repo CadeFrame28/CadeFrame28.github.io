@@ -29,11 +29,12 @@
 h1 
 {
 	font-family: sans-serif;
+
 }
 
 header 
 {
-	background-color: lightslategrey;
+	border: solid black;
 }
 
 ol 
